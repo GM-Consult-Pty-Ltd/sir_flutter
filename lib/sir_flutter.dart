@@ -2,8 +2,8 @@
 // BSD 3-Clause License
 // All rights reserved
 
-/// Dart library for creating an inverted index on a collection of text documents.
-library dart_package_template;
+/// A system for information retrieval (SIR) in Flutter.
+library sir_flutter;
 
 /// Export of barrel file in the /src folder.
 /// src/_index.dart exports the barrel files from

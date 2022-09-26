@@ -3,7 +3,7 @@
 // All rights reserved
 
 // ignore: unused_import
-import 'package:dart_package_template/dart_package_template.dart';
+import 'package:sir_flutter/sir_flutter.dart';
 
 void main() {
   //TODO: example
