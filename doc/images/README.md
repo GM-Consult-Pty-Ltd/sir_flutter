@@ -1,0 +1,1 @@
+*This folder is a container for images used in the documentation.*
