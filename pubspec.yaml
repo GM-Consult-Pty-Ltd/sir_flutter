@@ -6,7 +6,7 @@
 
 name: sir_flutter
 description: A system for information retrieval (SIR) in Flutter.
-version: 0.0.1-beta.1
+version: 0.0.1-1
 repository: https://github.com/GM-Consult-Pty-Ltd/sir_flutter
 homepage: https://github.com/GM-Consult-Pty-Ltd
 issue_tracker: https://github.com/GM-Consult-Pty-Ltd/sir_flutter/issues
